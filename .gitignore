@@ -1,5 +1,6 @@
 bin/
 obj/
-* !*/
-!*.cs
+*.csproj
+* !*/ 
+!*.cs 
 !.gitignore
