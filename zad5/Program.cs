@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Борисова Диана ИСИП23/1
+
+using System;
 
 class Program
 {
