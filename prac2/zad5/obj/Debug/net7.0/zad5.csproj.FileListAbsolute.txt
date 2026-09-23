@@ -1,0 +1,15 @@
+/Users/iluvdii/Downloads/prac2/zad5/bin/Debug/net7.0/zad5
+/Users/iluvdii/Downloads/prac2/zad5/bin/Debug/net7.0/zad5.deps.json
+/Users/iluvdii/Downloads/prac2/zad5/bin/Debug/net7.0/zad5.runtimeconfig.json
+/Users/iluvdii/Downloads/prac2/zad5/bin/Debug/net7.0/zad5.dll
+/Users/iluvdii/Downloads/prac2/zad5/bin/Debug/net7.0/zad5.pdb
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/zad5.csproj.AssemblyReference.cache
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/zad5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/zad5.AssemblyInfoInputs.cache
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/zad5.AssemblyInfo.cs
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/zad5.csproj.CoreCompileInputs.cache
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/zad5.dll
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/refint/zad5.dll
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/zad5.pdb
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/zad5.genruntimeconfig.cache
+/Users/iluvdii/Downloads/prac2/zad5/obj/Debug/net7.0/ref/zad5.dll

@@ -1,0 +1,15 @@
+/Users/iluvdii/Downloads/prac2/zad2/bin/Debug/net7.0/zad2
+/Users/iluvdii/Downloads/prac2/zad2/bin/Debug/net7.0/zad2.deps.json
+/Users/iluvdii/Downloads/prac2/zad2/bin/Debug/net7.0/zad2.runtimeconfig.json
+/Users/iluvdii/Downloads/prac2/zad2/bin/Debug/net7.0/zad2.dll
+/Users/iluvdii/Downloads/prac2/zad2/bin/Debug/net7.0/zad2.pdb
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/zad2.csproj.AssemblyReference.cache
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/zad2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/zad2.AssemblyInfoInputs.cache
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/zad2.AssemblyInfo.cs
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/zad2.csproj.CoreCompileInputs.cache
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/zad2.dll
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/refint/zad2.dll
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/zad2.pdb
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/zad2.genruntimeconfig.cache
+/Users/iluvdii/Downloads/prac2/zad2/obj/Debug/net7.0/ref/zad2.dll
